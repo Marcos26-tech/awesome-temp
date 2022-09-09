@@ -3,7 +3,7 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text eve
 
 ### Developers: 
-* [Marcos Vinicius Ferreira](https://github.com/marcosnaofazisso) 
+* [Marcos Maciel](https://github.com/Marcos26-tech)
 
 ## Goals and Rules:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
